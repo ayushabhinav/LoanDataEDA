@@ -8,7 +8,7 @@ It has some information on present status of those loans and the profile of the 
 Currently it has the loan requests on which decision is pending. 
 
 The orgnization wants you to ananlyze the data and suggest:-
-  1. which section/request to aviod monetary loss.
+  1. which section/request to aviod to reduce monetary loss/loan defaults.
   2. Which section/request to actively peruade to avoid missed business opportunity.
   
   
